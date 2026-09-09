@@ -1,0 +1,36 @@
+FREQUENTLY ASKED QUESTIONS (FAQ)
+ABC Technologies
+
+Q: How do I upgrade or downgrade my plan?
+A: Go to Account Settings > Billing > Change Plan. Changes take effect at the start of
+the next billing cycle. Downgrades may result in loss of access to features not
+included in the lower plan.
+
+Q: Can I get an invoice for my payment?
+A: Yes, invoices are automatically emailed after every payment and are also available
+under Account Settings > Billing > Invoice History.
+
+Q: How do I add or remove users from my account?
+A: Account administrators can manage users under Account Settings > Team Management.
+Removing a user immediately revokes their access.
+
+Q: What happens to my data if I cancel my subscription?
+A: Your data remains accessible in read-only mode for 30 days after cancellation. After
+30 days, data is archived, and after 90 days it is permanently deleted per our data
+retention policy.
+
+Q: How do I reset my password?
+A: Click "Forgot Password" on the login page and follow the instructions sent to your
+registered email address.
+
+Q: Do you offer a mobile app?
+A: Yes, ABC Technologies offers mobile apps for both iOS and Android with core
+functionality. Some advanced reporting features are only available on desktop/web.
+
+Q: How do I contact support?
+A: Support can be reached via live chat, email at support@abctechnologies.com, or phone
+for Enterprise customers. Standard support hours are Monday-Friday, 9 AM-6 PM.
+
+Q: Is my payment information secure?
+A: Yes, all payment processing is handled through PCI-DSS compliant payment processors,
+and ABC Technologies does not store raw credit card numbers on its own servers.

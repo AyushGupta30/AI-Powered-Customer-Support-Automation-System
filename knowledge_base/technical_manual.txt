@@ -1,0 +1,38 @@
+TECHNICAL MANUAL
+ABC Technologies Cloud Business Management Software
+
+1. INSTALLATION ISSUES
+If installation fails, ensure your system meets the minimum requirements: Windows 10+
+or macOS 11+, 8GB RAM, and a stable internet connection. Clear the installer cache at
+%APPDATA%\ABCTech\cache (Windows) or ~/Library/Caches/ABCTech (Mac) and re-run the
+installer as administrator.
+
+2. LOGIN PROBLEMS
+If a customer cannot log in, first confirm the email address is correct and the account
+is active (not deactivated or suspended). Advise the customer to use the "Forgot
+Password" link on the login page to reset their password via email. If multi-factor
+authentication (MFA) is enabled and the customer lost access to their authenticator app,
+a support agent can issue a temporary MFA bypass code after identity verification.
+
+3. APPLICATION CRASHES
+Application crashes on file upload are most commonly caused by files exceeding the
+2GB size limit, unsupported file formats (only .csv, .xlsx, .pdf, .docx are supported),
+or a corrupted local cache. Recommended steps: (1) verify the file is under 2GB and in
+a supported format, (2) clear the application cache from Settings > Storage > Clear
+Cache, (3) restart the application, (4) if the issue persists, collect the crash log
+from Settings > Diagnostics > Export Logs and escalate to Level 2 Technical Support.
+
+4. CONFIGURATION ISSUES
+Common configuration issues include incorrect timezone settings causing report
+mismatches, and integration failures with third-party tools due to expired API keys.
+API keys should be regenerated from Settings > Integrations > API Keys if a connected
+service stops syncing.
+
+5. PERFORMANCE ISSUES
+Slow performance is often caused by browser cache buildup. Recommend clearing browser
+cache and cookies, or using the desktop application instead of the browser version for
+large datasets (over 50,000 records).
+
+6. SYSTEM STATUS
+Customers can check real-time system status and any ongoing incidents at
+status.abctechnologies.com.

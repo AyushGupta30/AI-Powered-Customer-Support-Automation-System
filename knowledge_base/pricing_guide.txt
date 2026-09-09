@@ -1,0 +1,40 @@
+PRICING GUIDE
+ABC Technologies Cloud Business Management Software
+
+1. STARTER PLAN
+Price: $29 per user / month (billed monthly) or $290 per user / year (billed annually,
+2 months free).
+Includes: Core business management features, up to 5 users, 10GB storage, email support.
+Best for: Small businesses and startups.
+
+2. PROFESSIONAL PLAN
+Price: $59 per user / month (billed monthly) or $590 per user / year (billed annually,
+2 months free).
+Includes: All Starter features, unlimited users, 100GB storage, advanced reporting,
+priority chat support, API access.
+Best for: Growing businesses that need more collaboration tools.
+
+3. ENTERPRISE PLAN
+Price: Custom pricing based on organization size and requirements.
+Includes: All Professional features, unlimited storage, dedicated account manager,
+24/7 priority phone support, custom integrations, single sign-on (SSO), and a
+99.9% uptime SLA.
+Best for: Large organizations with complex requirements.
+
+4. ADD-ONS
+- Advanced Analytics Module: $15 per user / month
+- Extra Storage (100GB block): $10 / month
+- Premium Onboarding & Training: $499 one-time fee
+
+5. BILLING CYCLES
+All plans can be billed monthly or annually. Annual billing offers a discount equivalent
+to 2 free months compared to monthly billing.
+
+6. FREE TRIAL
+All new customers receive a 14-day free trial of the Professional Plan with no credit
+card required. No charges apply unless the customer upgrades to a paid plan.
+
+7. DISCOUNTS
+- Non-profit organizations: 20% discount on all plans.
+- Educational institutions: 30% discount on all plans.
+- Annual prepayment: equivalent of 2 months free (as noted above).
